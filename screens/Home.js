@@ -4,7 +4,7 @@ import { View, Text, StyleSheet, Button } from 'react-native'
 export default function Home({navigation}) {
     return (
         <View style={styles.container}>
-        <Text >Home Screen</Text>
+        <Text >Home Screen page</Text>
       <Button
         title="Go to details screen"
         onPress={() => navigation.navigate("About")}
