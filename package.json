@@ -25,12 +25,14 @@
     "react-native-calendars": "^1.1249.0",
     "react-native-gesture-handler": "~1.8.0",
     "react-native-paper": "^4.7.1",
-    "react-native-reanimated": "~1.13.0",
+    "react-native-reanimated": "^1.13.3",
     "react-native-safe-area-context": "3.1.9",
     "react-native-screens": "~2.15.2",
+    "react-native-share": "^5.3.0",
     "react-native-vector-icons": "^8.0.0",
     "react-native-web": "~0.13.12",
-    "react-navigation-stack": "^2.10.2"
+    "react-navigation-stack": "^2.10.2",
+    "reanimated-bottom-sheet": "^1.0.0-alpha.22"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"

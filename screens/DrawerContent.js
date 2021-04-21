@@ -74,8 +74,8 @@ export function DrawerContent(props) {
                                 size={size}
                                 />
                             )}
-                            label="Events"
-                            onPress={() => {props.navigation.navigate('Events')}}
+                            label="Profile"
+                            onPress={() => {props.navigation.navigate('Profile')}}
                         />
                    
                     </Drawer.Section>
